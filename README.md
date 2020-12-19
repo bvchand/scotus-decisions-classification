@@ -20,3 +20,14 @@ Click this button to open each respective notebook in Google Colab.
 scotus_doc2vec.ipynb - A standalone file containing all the code for the multi-class classification of SCOTUS decisions with document vector embeddings as features.
 
 scotus_tfidf_lda.ipynb - A standalone file containing all the code for the multi-class classification of SCOTUS decisions with TFIDF vectors as features.
+
+#### Supervised algorithms used:
+1. Naive Bayes Classifier
+2. Logistic Regression
+3. Support Vector Machines
+4. Random Forest Classifier
+
+#### Unsupervised algorithm used:
+1. LDA
+
+
