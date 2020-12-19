@@ -18,4 +18,5 @@ Click this button to open each respective notebook in Google Colab.
 #### Files
 
 scotus_doc2vec.ipynb - A standalone file containing all the code for the multi-class classification of SCOTUS decisions with document vector embeddings as features.
+
 scotus_tfidf_lda.ipynb - A standalone file containing all the code for the multi-class classification of SCOTUS decisions with TFIDF vectors as features.
